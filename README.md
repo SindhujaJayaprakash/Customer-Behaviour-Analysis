@@ -17,6 +17,9 @@
     4. Product & demographic analysis → Identify high-performing products and customer segments.
     5. The objective is to provide insights that will help ShopEasy improve engagement, optimize marketing spend, and boost overall conversions.
 
+**DataSets Name** :
+    Customers.csv, Products.csv, Engagement_data.csv, Customer_Journey.csv, Customer_reviews.csv
+
 **Approach** : 
 
    1. Used Python (pandas, SQLAlchemy, MySQL-connector, or psycopg2) for CSV to SQL insertion.
