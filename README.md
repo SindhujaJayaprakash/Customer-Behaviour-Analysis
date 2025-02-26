@@ -18,6 +18,7 @@
     5. The objective is to provide insights that will help ShopEasy improve engagement, optimize marketing spend, and boost overall conversions.
 
 **DataSets Name** :
+
     Customers.csv, Products.csv, Engagement_data.csv, Customer_Journey.csv, Customer_reviews.csv
 
 **Approach** : 
